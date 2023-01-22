@@ -38,6 +38,7 @@ $(document).ready(function () {
         })
     }
 
+
     // Local storage
     $("#hour8 .description").val(localStorage.getItem("8am"));
     $("#hour9 .description").val(localStorage.getItem("9am"));
